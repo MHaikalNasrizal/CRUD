@@ -1,0 +1,2 @@
+User use the controller to request task.Then, the controller send a request task to model.
+The model will process the task then send a response data to controller. The controller will send data to view to display data to the user.
